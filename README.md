@@ -75,4 +75,4 @@ Best model selected based on Test R² score after hyperparameter tuning. Full co
 
 ## Notes
 
-This is a learning project built to practice the full data science workflow — cleaning, EDA, modeling, and deployment.
+This is a learning project built to practice the full data science workflow = cleaning, EDA, modeling, and deployment.
