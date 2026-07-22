@@ -41,7 +41,7 @@ It has 13,580 property records with details like price, rooms, location, land si
 **6. Deployment**
 - Built a Streamlit web app (`app.py`) where a user can enter property details and get a predicted price instantly.
 
-## How to Run
+## How to Run my project
 
 1. Install the requirements:
 ```
@@ -71,8 +71,11 @@ streamlit run app.py
 
 ## Result
 
-Best model selected based on Test R² score after hyperparameter tuning. Full comparison and metrics are in the notebook.
+Best model selected based on Test R² score after hyperparameter tuning. You an go and check it out the  full comparison and metrics are in the notebook.
 
 ## Notes
 
 This is a learning project built to practice the full data science workflow = cleaning, EDA, modeling, and deployment.
+
+Thank you for involvement in my project 
+This is my project - @Mindrisers Institute of Technology  for my Data Science project.
