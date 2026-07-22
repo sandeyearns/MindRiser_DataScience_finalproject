@@ -78,4 +78,4 @@ Best model selected based on Test R² score after hyperparameter tuning. You an 
 This is a learning project built to practice the full data science workflow = cleaning, EDA, modeling, and deployment.
 
 Thank you for involvement in my project 
-This is my project - @Mindrisers Institute of Technology  for my Data Science project.
+This is my project - @Mindrisers Institute of Technology  for my Data Science certificate.
